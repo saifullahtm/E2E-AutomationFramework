@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62723" started-at="2018-01-01T19:57:21Z" finished-at="2018-01-01T19:58:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62723" started-at="2018-01-01T19:57:21Z" finished-at="2018-01-01T19:58:24Z">
+      <class name="Academy.HomePage">
+        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:Academy.HomePage@4d9e68d0]" name="basePageNavigation" duration-ms="62694" started-at="2018-01-01T14:57:21Z" finished-at="2018-01-01T14:58:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+      </class> <!-- Academy.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
